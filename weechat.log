@@ -1,0 +1,23 @@
+[2014-07-30 10:22:55] weechat 0.3.8 (compiled on Dec 17 2012 14:30:32)
+[2014-07-30 10:22:55] Reading configuration file weechat.conf
+[2014-07-30 10:22:55] Reading configuration file plugins.conf
+[2014-07-30 10:22:55] Reading configuration file logger.conf
+[2014-07-30 10:22:55] Reading configuration file theme.conf
+[2014-07-30 10:22:55] Reading configuration file xfer.conf
+[2014-07-30 10:22:55] Reading configuration file relay.conf
+[2014-07-30 10:22:55] Reading configuration file alias.conf
+[2014-07-30 10:22:55] Reading configuration file rmodifier.conf
+[2014-07-30 10:22:55] Reading configuration file aspell.conf
+[2014-07-30 10:22:55] Reading configuration file charset.conf
+[2014-07-30 10:22:55] Reading configuration file irc.conf
+[2014-07-30 10:23:03] Writing configuration file plugins.conf 
+[2014-07-30 10:23:03] Writing configuration file irc.conf 
+[2014-07-30 10:23:03] Writing configuration file charset.conf 
+[2014-07-30 10:23:03] Writing configuration file aspell.conf 
+[2014-07-30 10:23:03] Writing configuration file rmodifier.conf 
+[2014-07-30 10:23:03] Writing configuration file alias.conf 
+[2014-07-30 10:23:03] Writing configuration file relay.conf 
+[2014-07-30 10:23:03] Writing configuration file xfer.conf 
+[2014-07-30 10:23:03] Writing configuration file theme.conf 
+[2014-07-30 10:23:03] Writing configuration file logger.conf 
+[2014-07-30 10:23:03] Writing configuration file weechat.conf 
